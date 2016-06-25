@@ -7,7 +7,7 @@ Here, you'll find demonstrations of scalable sklearn with [dask](http://dask.pyd
 
 ## Blurb
 
-It’s becoming increasingly important to scale up machine learning and deep learning computation either using a common solution in a cluster of GPUs or out-of-core computation on a single machine with enough local disk storage, which is rarely a problem these days.  Dask is a new library built on python that through out-of-core processes in task graphs can handle large datasets (gbs - tbs) for resource hungry computation.  It can do all this on a single PC/laptop give enough disk.
+It’s becoming increasingly important to scale up machine learning and deep learning computation either using a common solution in a cluster of GPUs or out-of-core computation on a single machine with enough local disk storage, which is rarely a problem these days.  Dask is a new library built on python that through out-of-core processes in task graphs can handle large datasets (gbs - tbs) for resource hungry computation.  It can do all this on a single PC/laptop given enough disk.
 
 ## Outline
 
